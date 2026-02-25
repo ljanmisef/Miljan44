@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Personal Shape</title>
+    <link>https://example.com/</link>
+    <description>Official website - Personal Shape</description>
+
+    <item>
+      <title>Home Page - Personal Shape</title>
+      <link>https://example.com/index.html</link>
+      <description>Official homepage with services and contact information.</description>
+      <pubDate>Mon, 10 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>About the Author</title>
+      <link>https://example.com/autor.html</link>
+      <description>Information about Miljan Beloica.</description>
+      <pubDate>Mon, 10 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
